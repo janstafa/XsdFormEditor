@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BaseContainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" StringAttribute="StringAttribute">
+  <Element>ElementValue</Element>
+  <ChildContainer StringAttribute="StringAttribute">ChildContainerValue<Element>ElementValue</Element></ChildContainer>
+</BaseContainer>

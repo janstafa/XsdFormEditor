@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="1.2.2">
+  <xs:element name="MoveCopySettings">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Setting" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="File" minOccurs="1" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:attributeGroup ref="MoveCopySettingAttributeGroup" />
+                  <xs:attribute name="nameFilterRegExp" type="xs:string" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attributeGroup ref="MoveCopySettingAttributeGroup" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attributeGroup ref="MoveCopySettingAttributeGroup" />
+      <xs:attribute name="creationDate" type="xs:date" use="required" />
+      <xs:attribute name="lastUpdate" type="xs:date" />
+      <xs:attribute name="authorEmail" type="xs:string" use="required" />
+      <xs:attribute name="version" type="xs:string" use="required" />
+      <xs:attribute name="documentCount" type="xs:integer" />
+      <xs:attribute name="source" type="xs:string" />
+      <xs:attribute name="unmatchedFileAction" default="Skip">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Skip" />
+            <xs:enumeration value="MoveToOutput" />
+            <xs:enumeration value="Delete" />
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="MoveCopySettingAttributeGroup">
+    <xs:attribute name="enabled" type="xs:boolean" default="true" />
+    <xs:attribute name="comment" type="xs:string" />
+    <xs:attribute name="collisionAction" default="Undefined">
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:enumeration value="Overwrite" />
+          <xs:enumeration value="Skip" />
+          <xs:enumeration value="Error" />
+          <xs:enumeration value="Undefined" />
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+    <xs:attribute name="action" default="Undefined">
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:enumeration value="Copy" />
+          <xs:enumeration value="Move" />
+          <xs:enumeration value="Undefined" />
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+    <xs:attribute name="filterFormats" type="xs:string" />
+    <xs:attribute name="outputDirectory" type="xs:string" />
+  </xs:attributeGroup>
+</xs:schema>

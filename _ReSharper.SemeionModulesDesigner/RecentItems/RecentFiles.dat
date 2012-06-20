@@ -1,0 +1,66 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/f:MainForm.Designer.cs" caret="0" fromTop="0" />
+    <File id="7D9EDAB3-68D9-4128-A034-CCF6B02B3B2F/d:UI/f:FormManagerTests.cs" caret="0" fromTop="0" />
+    <File id="7D9EDAB3-68D9-4128-A034-CCF6B02B3B2F/d:UI/f:ControlManagerTest.cs" caret="0" fromTop="0" />
+    <File id="7D9EDAB3-68D9-4128-A034-CCF6B02B3B2F/d:UI/f:ControlFactoryTest.cs" caret="0" fromTop="0" />
+    <File id="A33B677F-37A3-4E72-91FE-B59050F1B147/d:XsdModel/d:Interfaces/f:IXForm.cs" caret="0" fromTop="0" />
+    <File id="A33B677F-37A3-4E72-91FE-B59050F1B147/d:XsdModel/d:Interfaces/f:IXContainer.cs" caret="0" fromTop="0" />
+    <File id="A33B677F-37A3-4E72-91FE-B59050F1B147/d:XsdModel/d:Interfaces/f:IXElement.cs" caret="0" fromTop="0" />
+    <File id="A33B677F-37A3-4E72-91FE-B59050F1B147/d:Helpers/f:ObjectCopier.cs" caret="0" fromTop="0" />
+    <File id="A33B677F-37A3-4E72-91FE-B59050F1B147/d:XsdModel/f:XContainer.cs" caret="0" fromTop="0" />
+    <File id="A33B677F-37A3-4E72-91FE-B59050F1B147/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
+    <File id="A33B677F-37A3-4E72-91FE-B59050F1B147/f:IXmlParser.cs" caret="0" fromTop="0" />
+    <File id="A33B677F-37A3-4E72-91FE-B59050F1B147/f:IXmlWriter.cs" caret="0" fromTop="0" />
+    <File id="A33B677F-37A3-4E72-91FE-B59050F1B147/d:XsdModel/d:Enums/f:XAttributeUse.cs" caret="0" fromTop="0" />
+    <File id="A33B677F-37A3-4E72-91FE-B59050F1B147/d:XsdModel/d:Interfaces/f:IXAttribute.cs" caret="0" fromTop="0" />
+    <File id="A33B677F-37A3-4E72-91FE-B59050F1B147/d:XsdModel/f:XAttribute.cs" caret="0" fromTop="0" />
+    <File id="A33B677F-37A3-4E72-91FE-B59050F1B147/d:XsdModel/f:XElement.cs" caret="0" fromTop="0" />
+    <File id="A33B677F-37A3-4E72-91FE-B59050F1B147/d:XsdModel/f:XEnumerationAttribute.cs" caret="0" fromTop="0" />
+    <File id="A33B677F-37A3-4E72-91FE-B59050F1B147/d:XsdModel/f:XForm.cs" caret="0" fromTop="0" />
+    <File id="A33B677F-37A3-4E72-91FE-B59050F1B147/f:IXsdParser.cs" caret="0" fromTop="0" />
+    <File id="ACB3D9FD-87E2-4B21-BAAA-F4CF7FE0202A/f:XmlWriterTest.cs" caret="0" fromTop="0" />
+    <File id="ACB3D9FD-87E2-4B21-BAAA-F4CF7FE0202A/f:XsdParserTest.cs" caret="0" fromTop="0" />
+    <File id="ACB3D9FD-87E2-4B21-BAAA-F4CF7FE0202A/f:XmlParserTest.cs" caret="0" fromTop="0" />
+    <File id="AB68BDE2-4FF5-46B1-A150-E68C94134A2E/f:System.Xml.Schema.XmlSchemaType.cs" caret="4150" fromTop="94" />
+    <File id="A33B677F-37A3-4E72-91FE-B59050F1B147/f:XmlWriter.cs" caret="842" fromTop="14" />
+    <File id="A33B677F-37A3-4E72-91FE-B59050F1B147/f:XmlParser.cs" caret="882" fromTop="15" />
+    <File id="A33B677F-37A3-4E72-91FE-B59050F1B147/f:XsdParser.cs" caret="5237" fromTop="21" />
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/d:UI/f:FormValidation.cs" caret="1498" fromTop="10" />
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/d:UI/f:ControlManager.cs" caret="3064" fromTop="8" />
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/d:UI/f:FormManager.cs" caret="1951" fromTop="42" />
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/f:MainForm.cs" caret="2677" fromTop="9" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/d:UI/f:ControlManager.cs" caret="19682" fromTop="15" />
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/d:UI/f:ControlManager.cs" caret="19664" fromTop="16" />
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/d:UI/f:ControlManager.cs" caret="17308" fromTop="22" />
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/d:UI/f:ControlManager.cs" caret="17308" fromTop="10" />
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/d:UI/f:ControlManager.cs" caret="18951" fromTop="16" />
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/d:UI/f:ControlManager.cs" caret="20422" fromTop="19" />
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/d:UI/f:ControlManager.cs" caret="17308" fromTop="8" />
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/d:UI/f:ControlManager.cs" caret="17308" fromTop="17" />
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/d:UI/f:ControlManager.cs" caret="17308" fromTop="5" />
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/d:UI/f:ControlManager.cs" caret="17308" fromTop="20" />
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/d:UI/f:ControlManager.cs" caret="17467" fromTop="23" />
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/d:UI/f:ControlManager.cs" caret="17308" fromTop="16" />
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/d:UI/f:ControlManager.cs" caret="17308" fromTop="16" />
+    <File id="A33B677F-37A3-4E72-91FE-B59050F1B147/f:XmlParser.cs" caret="2994" fromTop="23" />
+    <File id="A33B677F-37A3-4E72-91FE-B59050F1B147/f:XmlParser.cs" caret="5667" fromTop="5" />
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/d:UI/f:ControlManager.cs" caret="17308" fromTop="21" />
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/d:UI/f:ControlManager.cs" caret="17308" fromTop="24" />
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/d:UI/f:ControlManager.cs" caret="17308" fromTop="25" />
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/d:UI/f:ControlManager.cs" caret="4540" fromTop="25" />
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/d:UI/f:ControlManager.cs" caret="4075" fromTop="12" />
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/d:UI/f:ControlManager.cs" caret="3354" fromTop="15" />
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/f:MainForm.cs" caret="4007" fromTop="17" />
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/f:MainForm.cs" caret="4280" fromTop="22" />
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/f:MainForm.cs" caret="2892" fromTop="12" />
+    <File id="A33B677F-37A3-4E72-91FE-B59050F1B147/f:XmlParser.cs" caret="4278" fromTop="6" />
+    <File id="A33B677F-37A3-4E72-91FE-B59050F1B147/f:XmlParser.cs" caret="5744" fromTop="30" />
+    <File id="A33B677F-37A3-4E72-91FE-B59050F1B147/f:XmlParser.cs" caret="1163" fromTop="19" />
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/d:UI/f:FormManager.cs" caret="2076" fromTop="19" />
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/d:UI/f:FormManager.cs" caret="2075" fromTop="19" />
+    <File id="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8/f:MainForm.cs" caret="3244" fromTop="21" />
+  </RecentEdits>
+</RecentFiles>

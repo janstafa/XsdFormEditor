@@ -1,0 +1,13 @@
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner.XsdTransformator.Tests\bin\Debug\SemeionModulesDesigner.XsdTransformator.Tests.dll
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner.XsdTransformator.Tests\bin\Debug\SemeionModulesDesigner.XsdTransformator.Tests.pdb
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner.XsdTransformator.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner.XsdTransformator.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner.XsdTransformator.Tests\obj\Debug\SemeionModulesDesigner.XsdTransformator.Tests.dll
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner.XsdTransformator.Tests\obj\Debug\SemeionModulesDesigner.XsdTransformator.Tests.pdb
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner.XsdTransformator.Tests\bin\Debug\DocumentumArchivageSettings.xml
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner.XsdTransformator.Tests\bin\Debug\DocumentumArchivageSettings.cs
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner.XsdTransformator.Tests\bin\Debug\MoveCopySettings.cs
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner.XsdTransformator.Tests\bin\Debug\DocumentumArchivageSettings.xsd
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner.XsdTransformator.Tests\bin\Debug\MoveCopySettings.xsd
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner.XsdTransformator.Tests\bin\Debug\SemeionModulesDesigner.XmlSchemaParser.dll
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner.XsdTransformator.Tests\bin\Debug\SemeionModulesDesigner.XmlSchemaParser.pdb

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="SemeionTIRDocumentumConnectorSettings" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="0.1">
+  <xs:element name="DocumentumArchivageSettings">
+    <xs:complexType>
+      <xs:choice minOccurs="1" maxOccurs="unbounded">
+        <xs:element name="Setting">
+          <xs:complexType>
+            <xs:all minOccurs="1" maxOccurs="1">
+              <xs:element name="DocumentType" type="xs:string" minOccurs="1" maxOccurs="1" />
+              <xs:element name="FileConditions" minOccurs="0" maxOccurs="1">
+                <xs:complexType>
+                  <xs:all minOccurs="0" maxOccurs="1">
+                    <xs:element name="Name" minOccurs="0" maxOccurs="1">
+                      <xs:complexType>
+                        <xs:attribute name="regexp" type="xs:string" use="required" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="Extensions" minOccurs="0" maxOccurs="1">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="Extension" minOccurs="0" maxOccurs="unbounded">
+                            <xs:complexType>
+                              <xs:attribute name="value" type="xs:string" use="required" />
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:all>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="Cabinet" minOccurs="1" maxOccurs="1" type="IfNotExistsComplexType" />
+              <xs:element name="FolderPath" minOccurs="1" maxOccurs="1" type="IfNotExistsComplexType" />
+              <xs:element name="Properties" minOccurs="0" maxOccurs="1">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Property" minOccurs="1" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="Sources" minOccurs="0" maxOccurs="unbounded">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element name="SourcePDFBookmark" minOccurs="1" maxOccurs="1">
+                                  <xs:complexType>
+                                    <xs:attribute name="isRequired" type="xs:boolean" default="true" />
+                                    <xs:attribute name="separator" type="xs:string" default="" />
+                                    <xs:attribute name="indexLine" type="xs:integer" use="required" />
+                                    <xs:attribute name="indexPosition" type="xs:integer" default="0" />
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="name" type="xs:string" use="required" />
+                        <xs:attribute name="defaultValue" type="xs:string" />
+                        <xs:attribute name="type" default="String">
+                          <xs:simpleType>
+                            <xs:restriction base="xs:string">
+                              <xs:enumeration value="String" />
+                              <xs:enumeration value="Decimal" />
+                              <xs:enumeration value="DateTime" />
+                            </xs:restriction>
+                          </xs:simpleType>
+                        </xs:attribute>
+                        <xs:attribute name="enabled" type="xs:boolean" default="true" />
+                        <xs:attribute name="ifNotFound" default="DefaultValue">
+                          <xs:simpleType>
+                            <xs:restriction base="xs:string">
+                              <xs:enumeration value="DefaultValue" />
+                              <xs:enumeration value="ThrowError" />
+                              <xs:enumeration value="Skip" />
+                            </xs:restriction>
+                          </xs:simpleType>
+                        </xs:attribute>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:all>
+            <xs:attribute name="name" type="xs:string" use="required" />
+            <xs:attribute name="enabled" type="xs:boolean" default="true" />
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+      <xs:attribute name="creationDate" type="xs:date" use="required" />
+      <xs:attribute name="updateDate" type="xs:date" />
+      <xs:attribute name="authorEmail" type="xs:string" use="required" />
+      <xs:attribute name="version" type="xs:string" use="required" />
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="IfNotExistsComplexType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute name="ifNotExists" type="IfNotExistsSimpleType" default="ThrowError" />
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:simpleType name="IfNotExistsSimpleType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="ThrowError" />
+      <xs:enumeration value="Skip" />
+      <xs:enumeration value="Create" />
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>

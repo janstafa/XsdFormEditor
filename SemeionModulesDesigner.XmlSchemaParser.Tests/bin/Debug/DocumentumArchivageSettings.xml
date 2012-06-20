@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DocumentumArchivageSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schemas.semeion-demo.com/xsd/TIR/ArchivageDocumentum/DocumentumArchivageSettings.xsd" creationDate="2010-09-14" updateDate="2010-09-23" authorEmail="asanhaji@meninx.ch" version="1.1" >
+  <Setting name="sti_ciges_2021" enabled="true">
+  <!-- Application name : CIGES Hosp (2021) -->
+    <FileConditions>
+      <Name regexp="^(ghn020)(\w*)" />
+      <Extensions>
+        <Extension value="pdf" />
+      </Extensions>
+    </FileConditions>
+    <DocumentType>sti_ciges_2021</DocumentType>
+    <Cabinet ifNotExists="ThrowError">CIGES</Cabinet>
+    <FolderPath ifNotExists="ThrowError">/GHN/020</FolderPath>
+    <Properties>
+      <Property name="var_num_fac" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="0" />
+        </Sources>
+      </Property>
+      <Property name="var_num_pat" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="1" />
+        </Sources>
+      </Property>
+      <Property name="var_name_lastname" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="2" />
+        </Sources>
+      </Property>
+      <Property name="var_date_naiss" type="DateTime" format="MM/dd/yy" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="3" />
+        </Sources>
+      </Property>
+    </Properties>
+  </Setting>
+  <Setting name="sti_ciges_2021" enabled="true">
+  <!-- Application name : CIGES Hosp (2021) -->
+    <FileConditions>
+      <Name regexp="^(ghn021)(\w*)" />
+      <Extensions>
+        <Extension value="pdf" />
+      </Extensions>
+    </FileConditions>
+    <DocumentType>sti_ciges_2021</DocumentType>
+    <Cabinet ifNotExists="ThrowError">CIGES</Cabinet>
+    <FolderPath ifNotExists="ThrowError">/GHN/021</FolderPath>
+    <Properties>
+      <Property name="var_num_fac" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="0" />
+        </Sources>
+      </Property>
+      <Property name="var_num_pat" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="1" />
+        </Sources>
+      </Property>
+      <Property name="var_name_lastname" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="2" />
+        </Sources>
+      </Property>
+      <Property name="var_date_naiss" type="DateTime" format="MM/dd/yy" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="3" />
+        </Sources>
+      </Property>
+    </Properties>
+  </Setting>
+  <Setting name="sti_ciges_2324" enabled="true">
+  <!-- Application name : CIGES Ambu (2324) -->
+    <FileConditions>
+      <Name regexp="^(ghn023)(\w*)" />
+      <Extensions>
+        <Extension value="pdf" />
+      </Extensions>
+    </FileConditions>
+    <DocumentType>sti_ciges_2324</DocumentType>
+    <Cabinet ifNotExists="ThrowError">CIGES</Cabinet>
+    <FolderPath ifNotExists="ThrowError">/GHN/023</FolderPath>
+    <Properties>
+      <Property name="var_num_fac" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="0" />
+        </Sources>
+      </Property>
+      <Property name="var_num_pat" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="1" />
+        </Sources>
+      </Property>
+      <Property name="var_name_lastname" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="2" />
+        </Sources>
+      </Property>
+      <Property name="var_date_naiss" type="DateTime" format="MM/dd/yy" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="3" />
+        </Sources>
+      </Property>
+      <Property name="var_num_cas" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="4" />
+        </Sources>
+      </Property>
+    </Properties>
+  </Setting>
+  <Setting name="sti_ciges_2324" enabled="true">
+  <!-- Application name : CIGES Ambu (2324) -->
+    <FileConditions>
+      <Name regexp="^(ghn024)(\w*)" />
+      <Extensions>
+        <Extension value="pdf" />
+      </Extensions>
+    </FileConditions>
+    <DocumentType>sti_ciges_2324</DocumentType>
+    <Cabinet ifNotExists="ThrowError">CIGES</Cabinet>
+    <FolderPath ifNotExists="ThrowError">/GHN/024</FolderPath>
+    <Properties>
+      <Property name="var_num_fac" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="0" />
+        </Sources>
+      </Property>
+      <Property name="var_num_pat" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="1" />
+        </Sources>
+      </Property>
+      <Property name="var_name_lastname" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="2" />
+        </Sources>
+      </Property>
+      <Property name="var_date_naiss" type="DateTime" format="MM/dd/yy" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="3" />
+        </Sources>
+      </Property>
+      <Property name="var_num_cas" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="4" />
+        </Sources>
+      </Property>
+    </Properties>
+  </Setting>
+  <Setting name="sti_ciges_2526" enabled="true">
+  <!-- Application name : CIGES APDRG (2526) -->
+    <FileConditions>
+      <Name regexp="^(ghn025)(\w*)" />
+      <Extensions>
+        <Extension value="pdf" />
+      </Extensions>
+    </FileConditions>
+    <DocumentType>sti_ciges_2526</DocumentType>
+    <Cabinet ifNotExists="ThrowError">CIGES</Cabinet>
+    <FolderPath ifNotExists="ThrowError">/GHN/025</FolderPath>
+    <Properties>
+      <Property name="var_num_fac" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="0" />
+        </Sources>
+      </Property>
+      <Property name="var_num_pat" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="1" />
+        </Sources>
+      </Property>
+      <Property name="var_name_lastname" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="2" />
+        </Sources>
+      </Property>
+      <Property name="var_date_naiss" type="DateTime" format="MM/dd/yy" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="3" />
+        </Sources>
+      </Property>
+    </Properties>
+  </Setting>
+  <Setting name="sti_ciges_2526" enabled="true">
+  <!-- Application name : CIGES APDRG (2526) -->
+    <FileConditions>
+      <Name regexp="^(ghn026)(\w*)" />
+      <Extensions>
+        <Extension value="pdf" />
+      </Extensions>
+    </FileConditions>
+    <DocumentType>sti_ciges_2526</DocumentType>
+    <Cabinet ifNotExists="ThrowError">CIGES</Cabinet>
+    <FolderPath ifNotExists="ThrowError">/GHN/026</FolderPath>
+    <Properties>
+      <Property name="var_num_fac" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="0" />
+        </Sources>
+      </Property>
+      <Property name="var_num_pat" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="1" />
+        </Sources>
+      </Property>
+      <Property name="var_name_lastname" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="2" />
+        </Sources>
+      </Property>
+      <Property name="var_date_naiss" type="DateTime" format="MM/dd/yy" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="3" />
+        </Sources>
+      </Property>
+    </Properties>
+  </Setting>
+  <Setting name="sti_ciges_34" enabled="true">
+  <!-- Application name : CIGES Ambu (34) -->
+    <FileConditions>
+      <Name regexp="^(ghn034)(\w*)" />
+      <Extensions>
+        <Extension value="pdf" />
+      </Extensions>
+    </FileConditions>
+    <DocumentType>sti_ciges_34</DocumentType>
+    <Cabinet ifNotExists="ThrowError">CIGES</Cabinet>
+    <FolderPath ifNotExists="ThrowError">/GHN/034</FolderPath>
+    <Properties>
+      <Property name="var_num_fac" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="0" />
+        </Sources>
+      </Property>
+      <Property name="var_num_pat" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="1" />
+        </Sources>
+      </Property>
+      <Property name="var_name_lastname" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="2" />
+        </Sources>
+      </Property>
+      <Property name="var_date_naiss" type="DateTime" format="MM/dd/yy" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="3" />
+        </Sources>
+      </Property>
+      <Property name="var_num_cas" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="4" />
+        </Sources>
+      </Property>
+    </Properties>
+  </Setting>
+  <Setting name="sti_ciges_36" enabled="true">
+  <!-- Application name : CIGES Hosp (36) -->
+    <FileConditions>
+      <Name regexp="^(ghn036)(\w*)" />
+      <Extensions>
+        <Extension value="pdf" />
+      </Extensions>
+    </FileConditions>
+    <DocumentType>sti_ciges_36</DocumentType>
+    <Cabinet ifNotExists="ThrowError">CIGES</Cabinet>
+    <FolderPath ifNotExists="ThrowError">/GHN/036</FolderPath>
+    <Properties>
+      <Property name="var_num_fac" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ClientInfo/InvoiceNr -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="0" />
+        </Sources>
+      </Property>
+      <Property name="var_num_pat" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="1" />
+        </Sources>
+      </Property>
+      <Property name="var_name_lastname" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="2" />
+        </Sources>
+      </Property>
+      <Property name="var_date_naiss" type="DateTime" format="MM/dd/yy" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="3" />
+        </Sources>
+      </Property>
+    </Properties>
+  </Setting>
+  <Setting name="sti_scan_0033" enabled="true">
+  <!-- Application name : SCAN 0033 -->
+    <FileConditions>
+      <Name regexp="\w*sa0033\w*" />
+      <Extensions>
+        <Extension value="pdf" />
+      </Extensions>
+    </FileConditions>
+    <DocumentType>sti_scan_0033</DocumentType>
+    <Cabinet ifNotExists="ThrowError">SCAN</Cabinet>
+    <FolderPath ifNotExists="ThrowError">0033</FolderPath>
+    <Properties>
+      <Property name="var_adr_env" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ClientInfo/ID -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="1" />
+        </Sources>
+      </Property>
+      <Property name="var_dat_env" type="DateTime" format="MM/dd/yy" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/Summary/DispDate -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="0" />
+        </Sources>
+      </Property>
+      <Property name="var_num_fac" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ClientInfo/InvoiceNr -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="3" />
+        </Sources>
+      </Property>
+      <Property name="var_num_deb" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ClientInfo/ClientNr -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="2" />
+        </Sources>
+      </Property>
+    </Properties>
+  </Setting>
+  <Setting name="sti_scan_0034" enabled="true">
+  <!-- Application name : SCAN 0034 -->
+    <FileConditions>
+      <Name regexp="\w*sa0034\w*" />
+      <Extensions>
+        <Extension value="pdf" />
+      </Extensions>
+    </FileConditions>
+    <DocumentType>sti_scan_0034</DocumentType>
+    <Cabinet ifNotExists="ThrowError">SCAN</Cabinet>
+    <FolderPath ifNotExists="ThrowError">0034</FolderPath>
+    <Properties>
+      <Property name="var_adr_env" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ClientInfo/ID -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="1" />
+        </Sources>
+      </Property>
+      <Property name="var_dat_env" type="DateTime" format="MM/dd/yy" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/Summary/DispDate -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="0" />
+        </Sources>
+      </Property>
+      <Property name="var_no_compte" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ClientInfo/InvoiceNr -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="3" />
+        </Sources>
+      </Property>
+      <Property name="var_num_deb" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ClientInfo/ClientNr -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="2" />
+        </Sources>
+      </Property>
+      <Property name="var_num_ncr" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="4" />
+        </Sources>
+      </Property>
+    </Properties>
+  </Setting>
+  <Setting name="sti_scan_0035" enabled="true">
+  <!-- Application name : SCAN 0035 -->
+    <FileConditions>
+      <Name regexp="\w*sa0035\w*" />
+      <Extensions>
+        <Extension value="pdf" />
+      </Extensions>
+    </FileConditions>
+    <DocumentType>sti_scan_0035</DocumentType>
+    <Cabinet ifNotExists="ThrowError">SCAN</Cabinet>
+    <FolderPath ifNotExists="ThrowError">0035</FolderPath>
+    <Properties>
+      <Property name="var_adr_env" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ClientInfo/ID -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="1" />
+        </Sources>
+      </Property>
+      <Property name="var_dat_env" type="DateTime" format="MM/dd/yy" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/Summary/DispDate -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="0" />
+        </Sources>
+      </Property>
+      <Property name="var_num_fac" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ClientInfo/InvoiceNr -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="3" />
+        </Sources>
+      </Property>
+      <Property name="var_num_deb" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ClientInfo/ClientNr -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="2" />
+        </Sources>
+      </Property>
+    </Properties>
+  </Setting>
+  <Setting name="sti_scan_0036" enabled="true">
+  <!-- Application name : SCAN 0036 -->
+    <FileConditions>
+      <Name regexp="\w*sa0036\w*" />
+      <Extensions>
+        <Extension value="pdf" />
+      </Extensions>
+    </FileConditions>
+    <DocumentType>sti_scan_0036</DocumentType>
+    <Cabinet ifNotExists="ThrowError">SCAN</Cabinet>
+    <FolderPath ifNotExists="ThrowError">0036</FolderPath>
+    <Properties>
+      <Property name="var_adr_env" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ClientInfo/ID -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="1" />
+        </Sources>
+      </Property>
+      <Property name="var_dat_env" type="DateTime" format="MM/dd/yy" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/Summary/DispDate -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="0" />
+        </Sources>
+      </Property>
+      <Property name="var_num_fac" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ClientInfo/InvoiceNr -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="3" />
+        </Sources>
+      </Property>
+      <Property name="var_num_deb" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ClientInfo/ClientNr -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="2" />
+        </Sources>
+      </Property>
+    </Properties>
+  </Setting>
+  <Setting name="sti_scan_0037" enabled="true">
+  <!-- Application name : SCAN 0037 -->
+    <FileConditions>
+      <Name regexp="\w*sa0037\w*" />
+      <Extensions>
+        <Extension value="pdf" />
+      </Extensions>
+    </FileConditions>
+    <DocumentType>sti_scan_0037</DocumentType>
+    <Cabinet ifNotExists="ThrowError">SCAN</Cabinet>
+    <FolderPath ifNotExists="ThrowError">0037</FolderPath>
+    <Properties>
+      <Property name="var_adr_env" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ClientInfo/ID -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="1" />
+        </Sources>
+      </Property>
+      <Property name="var_dat_env" type="DateTime" format="MM/dd/yy" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/Summary/StatDate -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="0" />
+        </Sources>
+      </Property>
+    </Properties>
+  </Setting>
+  <Setting name="sti_scan_0038" enabled="true">
+  <!-- Application name : SCAN 0038 -->
+    <FileConditions>
+      <Name regexp="\w*sa0038\w*" />
+      <Extensions>
+        <Extension value="pdf" />
+      </Extensions>
+    </FileConditions>
+    <DocumentType>sti_scan_0038</DocumentType>
+    <Cabinet ifNotExists="ThrowError">SCAN</Cabinet>
+    <FolderPath ifNotExists="ThrowError">0038</FolderPath>
+    <Properties>
+      <Property name="var_adr_env" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ClientInfo/ID -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="1" />
+        </Sources>
+      </Property>
+      <Property name="var_dat_env" type="DateTime" format="MM/dd/yy" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/Summary/StatDate -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="0" />
+        </Sources>
+      </Property>
+    </Properties>
+  </Setting>
+  <Setting name="sti_scan_0039" enabled="true">
+  <!-- Application name : SCAN 0039 -->
+    <FileConditions>
+      <Name regexp="\w*sa0039\w*" />
+      <Extensions>
+        <Extension value="pdf" />
+      </Extensions>
+    </FileConditions>
+    <DocumentType>sti_scan_0039</DocumentType>
+    <Cabinet ifNotExists="ThrowError">SCAN</Cabinet>
+    <FolderPath ifNotExists="ThrowError">0039</FolderPath>
+    <Properties>
+      <Property name="var_adr_env" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ClientInfo/ID -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="1" />
+        </Sources>
+      </Property>
+      <Property name="var_dat_env" type="DateTime" format="MM/dd/yy" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/Summary/StatDate -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="0" />
+        </Sources>
+      </Property>
+      <Property name="var_date" type="DateTime" format="MM/dd/yy" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ChargeInfo/ScanFees/ScanFee/Date -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="5" />
+        </Sources>
+      </Property>
+      <Property name="var_lieu" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ChargeInfo/ScanFees/ScanFee/City -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="4" />
+        </Sources>
+      </Property>
+      <Property name="Var_num_mat" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ChargeInfo/ScanFees/ScanFee/ID -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="3" />
+        </Sources>
+      </Property>
+      <Property name="Var_num_plaque" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ChargeInfo/ScanFees/ScanFee/Number -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="2" />
+        </Sources>
+      </Property>
+    </Properties>
+  </Setting>
+  <Setting name="sti_scan_0040" enabled="true">
+  <!-- Application name : SCAN 0040 -->
+    <FileConditions>
+      <Name regexp="\w*sa0040\w*" />
+      <Extensions>
+        <Extension value="pdf" />
+      </Extensions>
+    </FileConditions>
+    <DocumentType>sti_scan_0040</DocumentType>
+    <Cabinet ifNotExists="ThrowError">SCAN</Cabinet>
+    <FolderPath ifNotExists="ThrowError">0040</FolderPath>
+    <Properties>
+      <Property name="var_adr_env" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ClientInfo/ID -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="1" />
+        </Sources>
+      </Property>
+      <Property name="var_dat_env" type="DateTime" format="MM/dd/yy" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/Summary/DispDate -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="0" />
+        </Sources>
+      </Property>
+      <Property name="var_num_fac" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ClientInfo/InvoiceNr -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="3" />
+        </Sources>
+      </Property>
+      <Property name="var_num_deb" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ClientInfo/ClientNr -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="2" />
+        </Sources>
+      </Property>
+    </Properties>
+  </Setting>
+  <Setting name="sti_scan_0041" enabled="true">
+  <!-- Application name : SCAN 0041 -->
+    <FileConditions>
+      <Name regexp="\w*sa0041\w*" />
+      <Extensions>
+        <Extension value="pdf" />
+      </Extensions>
+    </FileConditions>
+    <DocumentType>sti_scan_0041</DocumentType>
+    <Cabinet ifNotExists="ThrowError">SCAN</Cabinet>
+    <FolderPath ifNotExists="ThrowError">0041</FolderPath>
+    <Properties>
+      <Property name="var_adr_env" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ClientInfo/ID -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="1" />
+        </Sources>
+      </Property>
+      <Property name="var_dat_env" type="DateTime" format="MM/dd/yy" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/Summary/DispDate -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="0" />
+        </Sources>
+      </Property>
+      <Property name="var_num_fac" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ClientInfo/InvoiceNr -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="3" />
+        </Sources>
+      </Property>
+      <Property name="var_num_deb" type="String" ifNotFound="ThrowError" >
+        <!-- Xpath: Document/Content/ClientInfo/ClientNr -->
+        <Sources>
+          <SourcePDFBookmark isRequired="true" indexLine="0" separator=";" indexPosition="2" />
+        </Sources>
+      </Property>
+    </Properties>
+  </Setting>
+</DocumentumArchivageSettings>
