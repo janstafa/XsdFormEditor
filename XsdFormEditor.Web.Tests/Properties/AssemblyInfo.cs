@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("XsdFormEditor.Web")]
+[assembly: AssemblyTitle("XsdFormEditor.Web.Tests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("XsdFormEditor.Web")]
+[assembly: AssemblyProduct("XsdFormEditor.Web.Tests")]
 [assembly: AssemblyCopyright("Copyright ©  2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b9b7be73-7de7-4e33-be8f-06065e1abb3e")]
+[assembly: Guid("615ad404-0e1b-448f-a3b8-ffdeefe13e0a")]
 
 // Version information for an assembly consists of the following four values:
 //
