@@ -1,0 +1,12 @@
+c:\users\simon\documents\visual studio 2010\Projects\SemeionModulesDesigner\SemeionModulesDesigner.XSDTransformator\obj\Debug\ResolveAssemblyReference.cache
+c:\users\simon\documents\visual studio 2010\Projects\SemeionModulesDesigner\SemeionModulesDesigner.XSDTransformator\bin\Debug\SemeionModulesDesigner.XsdTransformator.dll
+c:\users\simon\documents\visual studio 2010\Projects\SemeionModulesDesigner\SemeionModulesDesigner.XSDTransformator\bin\Debug\SemeionModulesDesigner.XsdTransformator.pdb
+c:\users\simon\documents\visual studio 2010\Projects\SemeionModulesDesigner\SemeionModulesDesigner.XSDTransformator\obj\Debug\SemeionModulesDesigner.XsdTransformator.dll
+c:\users\simon\documents\visual studio 2010\Projects\SemeionModulesDesigner\SemeionModulesDesigner.XSDTransformator\obj\Debug\SemeionModulesDesigner.XsdTransformator.pdb
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\SemeionModulesDesigner\SemeionModulesDesigner.XsdTransformator\bin\Debug\SemeionModulesDesigner.XsdTransformator.tlb
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner.XsdTransformator\bin\Debug\SemeionModulesDesigner.XsdTransformator.dll
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner.XsdTransformator\bin\Debug\SemeionModulesDesigner.XsdTransformator.pdb
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner.XsdTransformator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner.XsdTransformator\obj\Debug\SemeionModulesDesigner.XsdTransformator.dll
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner.XsdTransformator\obj\Debug\SemeionModulesDesigner.XsdTransformator.pdb
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner.XsdTransformator\bin\Debug\SemeionModulesDesigner.XsdTransformator.tlb

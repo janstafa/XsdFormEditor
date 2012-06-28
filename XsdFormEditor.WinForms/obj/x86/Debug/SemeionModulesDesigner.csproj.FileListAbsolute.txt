@@ -1,0 +1,30 @@
+c:\users\simon\documents\visual studio 2010\Projects\SemeionModulesDesigner\SemeionModulesDesigner\bin\Debug\SemeionModulesDesigner.exe
+c:\users\simon\documents\visual studio 2010\Projects\SemeionModulesDesigner\SemeionModulesDesigner\bin\Debug\SemeionModulesDesigner.pdb
+c:\users\simon\documents\visual studio 2010\Projects\SemeionModulesDesigner\SemeionModulesDesigner\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\simon\documents\visual studio 2010\Projects\SemeionModulesDesigner\SemeionModulesDesigner\obj\x86\Debug\SemeionModulesDesigner.Properties.Resources.resources
+c:\users\simon\documents\visual studio 2010\Projects\SemeionModulesDesigner\SemeionModulesDesigner\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\simon\documents\visual studio 2010\Projects\SemeionModulesDesigner\SemeionModulesDesigner\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\simon\documents\visual studio 2010\Projects\SemeionModulesDesigner\SemeionModulesDesigner\obj\x86\Debug\SemeionModulesDesigner.exe
+c:\users\simon\documents\visual studio 2010\Projects\SemeionModulesDesigner\SemeionModulesDesigner\obj\x86\Debug\SemeionModulesDesigner.pdb
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner\bin\Debug\SemeionModulesDesigner.exe
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner\bin\Debug\SemeionModulesDesigner.pdb
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner\bin\Debug\SemeionModulesDesigner.XmlSchemaParser.dll
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner\bin\Debug\SemeionModulesDesigner.XmlSchemaParser.pdb
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner\obj\x86\Debug\SemeionModulesDesigner.MainForm.resources
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner\obj\x86\Debug\SemeionModulesDesigner.Properties.Resources.resources
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner\obj\x86\Debug\SemeionModulesDesigner.exe
+C:\Users\Simon\Workspace\CSharp\Projects\SemeionModulesDesigner\SemeionModulesDesigner\obj\x86\Debug\SemeionModulesDesigner.pdb
+C:\Users\Simon\Workspace\CSharp\Projects\Meninx\SemeionModulesDesigner\SemeionModulesDesigner\obj\x86\Debug\SemeionModulesDesigner.exe
+C:\Users\Simon\Workspace\CSharp\Projects\Meninx\SemeionModulesDesigner\SemeionModulesDesigner\obj\x86\Debug\SemeionModulesDesigner.pdb
+C:\Users\Simon\Workspace\CSharp\Projects\Meninx\SemeionModulesDesigner\SemeionModulesDesigner\bin\Debug\SemeionModulesDesigner.exe
+C:\Users\Simon\Workspace\CSharp\Projects\Meninx\SemeionModulesDesigner\SemeionModulesDesigner\bin\Debug\SemeionModulesDesigner.pdb
+C:\Users\Simon\Workspace\CSharp\Projects\Meninx\SemeionModulesDesigner\SemeionModulesDesigner\bin\Debug\SemeionModulesDesigner.XmlSchemaParser.dll
+C:\Users\Simon\Workspace\CSharp\Projects\Meninx\SemeionModulesDesigner\SemeionModulesDesigner\bin\Debug\SemeionModulesDesigner.XmlSchemaParser.pdb
+C:\Users\Simon\Workspace\CSharp\Projects\Meninx\SemeionModulesDesigner\SemeionModulesDesigner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\Workspace\CSharp\Projects\Meninx\SemeionModulesDesigner\SemeionModulesDesigner\obj\x86\Debug\SemeionModulesDesigner.MainForm.resources
+C:\Users\Simon\Workspace\CSharp\Projects\Meninx\SemeionModulesDesigner\SemeionModulesDesigner\obj\x86\Debug\SemeionModulesDesigner.Properties.Resources.resources
+C:\Users\Simon\Workspace\CSharp\Projects\Meninx\SemeionModulesDesigner\SemeionModulesDesigner\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simon\Workspace\CSharp\Projects\Meninx\SemeionModulesDesigner\SemeionModulesDesigner\obj\x86\Debug\GenerateResource.write.1.tlog

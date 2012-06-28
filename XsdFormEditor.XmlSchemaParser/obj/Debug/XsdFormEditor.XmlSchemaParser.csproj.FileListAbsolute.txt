@@ -1,0 +1,6 @@
+C:\Users\Simon\Workspace\CSharp\Projects\XmlFormEditor\XmlFormEditor\XsdFormEditor.XmlSchemaParser\bin\Debug\XsdFormEditor.XmlSchemaParser.dll
+C:\Users\Simon\Workspace\CSharp\Projects\XmlFormEditor\XmlFormEditor\XsdFormEditor.XmlSchemaParser\bin\Debug\XsdFormEditor.XmlSchemaParser.pdb
+C:\Users\Simon\Workspace\CSharp\Projects\XmlFormEditor\XmlFormEditor\XsdFormEditor.XmlSchemaParser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\Workspace\CSharp\Projects\XmlFormEditor\XmlFormEditor\XsdFormEditor.XmlSchemaParser\obj\Debug\XsdFormEditor.XmlSchemaParser.dll
+C:\Users\Simon\Workspace\CSharp\Projects\XmlFormEditor\XmlFormEditor\XsdFormEditor.XmlSchemaParser\obj\Debug\XsdFormEditor.XmlSchemaParser.pdb
+C:\Users\Simon\Workspace\CSharp\Projects\XmlFormEditor\XmlFormEditor\XsdFormEditor.XmlSchemaParser\bin\Debug\XsdFormEditor.XmlSchemaParser.tlb

@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="A4C8CB6C-9F04-4783-9C43-8A69C2D727C8" ModuleId="XsdFormEditor.WinForms" />
+  <Module PersistentId="A33B677F-37A3-4E72-91FE-B59050F1B147" ModuleId="XsdFormEditor.XmlSchemaParser" />
+  <Module PersistentId="7D9EDAB3-68D9-4128-A034-CCF6B02B3B2F" ModuleId="XsdFormEditor.WinForms.Tests" />
+</Modules>

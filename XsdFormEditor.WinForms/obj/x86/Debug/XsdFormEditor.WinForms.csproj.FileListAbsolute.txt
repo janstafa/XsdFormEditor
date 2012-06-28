@@ -1,0 +1,11 @@
+C:\Users\Simon\Workspace\CSharp\Projects\XmlFormEditor\XmlFormEditor\XsdFormEditor.WinForms\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\Workspace\CSharp\Projects\XmlFormEditor\XmlFormEditor\XsdFormEditor.WinForms\obj\x86\Debug\SemeionModulesDesigner.MainForm.resources
+C:\Users\Simon\Workspace\CSharp\Projects\XmlFormEditor\XmlFormEditor\XsdFormEditor.WinForms\obj\x86\Debug\XsdFormEditor.WinForms.Properties.Resources.resources
+C:\Users\Simon\Workspace\CSharp\Projects\XmlFormEditor\XmlFormEditor\XsdFormEditor.WinForms\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simon\Workspace\CSharp\Projects\XmlFormEditor\XmlFormEditor\XsdFormEditor.WinForms\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simon\Workspace\CSharp\Projects\XmlFormEditor\XmlFormEditor\XsdFormEditor.WinForms\bin\Debug\XsdFormEditor.WinForms.exe
+C:\Users\Simon\Workspace\CSharp\Projects\XmlFormEditor\XmlFormEditor\XsdFormEditor.WinForms\bin\Debug\XsdFormEditor.WinForms.pdb
+C:\Users\Simon\Workspace\CSharp\Projects\XmlFormEditor\XmlFormEditor\XsdFormEditor.WinForms\bin\Debug\XsdFormEditor.XmlSchemaParser.dll
+C:\Users\Simon\Workspace\CSharp\Projects\XmlFormEditor\XmlFormEditor\XsdFormEditor.WinForms\bin\Debug\XsdFormEditor.XmlSchemaParser.pdb
+C:\Users\Simon\Workspace\CSharp\Projects\XmlFormEditor\XmlFormEditor\XsdFormEditor.WinForms\obj\x86\Debug\XsdFormEditor.WinForms.exe
+C:\Users\Simon\Workspace\CSharp\Projects\XmlFormEditor\XmlFormEditor\XsdFormEditor.WinForms\obj\x86\Debug\XsdFormEditor.WinForms.pdb
