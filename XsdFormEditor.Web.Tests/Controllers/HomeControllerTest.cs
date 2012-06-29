@@ -4,15 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Web.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 using XsdFormEditor.Web;
 using XsdFormEditor.Web.Controllers;
+using Assert = Microsoft.VisualStudio.TestTools.UnitTesting.Assert;
 
 namespace XsdFormEditor.Web.Tests.Controllers
 {
-    [TestClass]
+    [TestFixture]
     public class HomeControllerTest
     {
-        [TestMethod]
+        [Test]
         public void Index()
         {
             // Arrange
@@ -25,7 +27,7 @@ namespace XsdFormEditor.Web.Tests.Controllers
             Assert.AreEqual("Modify this template to jump-start your ASP.NET MVC application.", result.ViewBag.Message);
         }
 
-        [TestMethod]
+        [Test]
         public void About()
         {
             // Arrange
@@ -38,7 +40,7 @@ namespace XsdFormEditor.Web.Tests.Controllers
             Assert.IsNotNull(result);
         }
 
-        [TestMethod]
+        [Test]
         public void Contact()
         {
             // Arrange

@@ -1,0 +1,10 @@
+C:\Users\Simon\Workspace\CSharp\Projects\XmlFormEditor\XmlFormEditor\XsdFormEditor.Web.Tests\bin\Debug\XsdFormEditor.Web.Tests.dll.config
+C:\Users\Simon\Workspace\CSharp\Projects\XmlFormEditor\XmlFormEditor\XsdFormEditor.Web.Tests\bin\Debug\XsdFormEditor.Web.Tests.dll
+C:\Users\Simon\Workspace\CSharp\Projects\XmlFormEditor\XmlFormEditor\XsdFormEditor.Web.Tests\bin\Debug\XsdFormEditor.Web.Tests.pdb
+C:\Users\Simon\Workspace\CSharp\Projects\XmlFormEditor\XmlFormEditor\XsdFormEditor.Web.Tests\bin\Debug\XsdFormEditor.Web.dll
+C:\Users\Simon\Workspace\CSharp\Projects\XmlFormEditor\XmlFormEditor\XsdFormEditor.Web.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Simon\Workspace\CSharp\Projects\XmlFormEditor\XmlFormEditor\XsdFormEditor.Web.Tests\bin\Debug\XsdFormEditor.Web.pdb
+C:\Users\Simon\Workspace\CSharp\Projects\XmlFormEditor\XmlFormEditor\XsdFormEditor.Web.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\Workspace\CSharp\Projects\XmlFormEditor\XmlFormEditor\XsdFormEditor.Web.Tests\obj\Debug\XsdFormEditor.Web.Tests.dll
+C:\Users\Simon\Workspace\CSharp\Projects\XmlFormEditor\XmlFormEditor\XsdFormEditor.Web.Tests\obj\Debug\XsdFormEditor.Web.Tests.pdb
+C:\Users\Simon\Workspace\CSharp\Projects\XmlFormEditor\XmlFormEditor\XsdFormEditor.Web.Tests\bin\Debug\nunit.framework.dll
