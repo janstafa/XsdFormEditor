@@ -15,6 +15,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XsdFormEditor.Web", "XsdFor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XsdFormEditor.Web.Tests", "XsdFormEditor.Web.Tests\XsdFormEditor.Web.Tests.csproj", "{8D3137E2-730A-4735-9ED5-EF25A23290E3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{53FF8C08-A544-4AA4-B1E5-F011C235F096}"
+	ProjectSection(SolutionItems) = preProject
+		README = README
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
