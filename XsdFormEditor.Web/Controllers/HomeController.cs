@@ -17,7 +17,7 @@ namespace XsdFormEditor.Web.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your quintessential app description page.";
+            ViewBag.Message = "";
 
             return View();
         }
