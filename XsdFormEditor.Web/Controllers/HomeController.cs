@@ -10,14 +10,14 @@ namespace XsdFormEditor.Web.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
+            ViewBag.Message = "";
 
             return View();
         }
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your quintessential app description page.";
+            ViewBag.Message = "";
 
             return View();
         }
