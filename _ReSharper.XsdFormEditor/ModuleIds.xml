@@ -4,4 +4,5 @@
   <Module PersistentId="7D9EDAB3-68D9-4128-A034-CCF6B02B3B2F" ModuleId="XsdFormEditor.WinForms.Tests" />
   <Module PersistentId="3899085A-51C2-42D0-96C9-9318C766F7C4" ModuleId="XsdFormEditor.Web" />
   <Module PersistentId="8D3137E2-730A-4735-9ED5-EF25A23290E3" ModuleId="XsdFormEditor.Web.Tests" />
+  <Module PersistentId="26C8EA97-DAB6-471C-A60C-957E81249400" ModuleId="XsdFormEditor.Wpf" />
 </Modules>
