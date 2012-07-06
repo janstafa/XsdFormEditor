@@ -16,9 +16,9 @@ namespace SemeionModulesDesigner.XmlSchemaParser
         /// <param name="xForm">XForm with data.</param>
         public void WriteXFormToXmlFile(Stream stream, XForm xForm)
         {
-            var settings = new XmlWriterSettings();
-            settings.Indent = true;
-            settings.NamespaceHandling = NamespaceHandling.OmitDuplicates;
+            //var settings = new XmlWriterSettings();
+            //settings.Indent = true;
+            //settings.NamespaceHandling = NamespaceHandling.OmitDuplicates;
 
             using (var writer = System.Xml.XmlWriter.Create(stream, settings))
             {
