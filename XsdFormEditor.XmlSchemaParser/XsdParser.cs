@@ -86,6 +86,11 @@ namespace SemeionModulesDesigner.XmlSchemaParser
 
             container.Id = 1;
 
+            if (_lastContainer == null)
+            {
+                _lastContainer = new XContainer();
+            }
+            
             var complexType = xmlSchemaElement.ElementSchemaType as XmlSchemaComplexType;
             var simpleType = xmlSchemaElement.ElementSchemaType as XmlSchemaSimpleType;
 
