@@ -1,1 +1,3 @@
 Application will be able to show any XSD as a form in WinForms (95% done), Web (using Asp.Net MVC, 0% done), WPF (0% done). Idea is to load any XSD file, show it to user as a form, let user input some data and save data as XML. User will be also able to load default values to form from XML file.
+
+MIT License
